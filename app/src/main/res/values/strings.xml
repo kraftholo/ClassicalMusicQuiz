@@ -22,4 +22,7 @@
     <string name="notification_text">Press play to hear the piece!</string>
     <string name="sample_list_load_error">Error loading one or more samples!</string>
     <string name="sample_not_found_error">Sample Not Found</string>
+    <string name="exo_controls_play">Music Is Playing</string>
+    <string name="exo_controls_pause">Music is Paused</string>
+    <string name="restart">Restart Song</string>
 </resources>
